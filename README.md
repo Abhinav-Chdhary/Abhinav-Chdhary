@@ -1,9 +1,11 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning Software development and DSA
 ### 🔭 I’m currently working on a personal blog web app
+### Checkout my website: https://abhinav-chdhary.github.io/my-portfolio/
 ### How to reach me: 
 LinkedIn: https://www.linkedin.com/in/abhinavchdhary/ 
 Gmail: abhinavchdhary@gmail.com 
+
 <!--
 **Abhinav-Chdhary/Abhinav-Chdhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
