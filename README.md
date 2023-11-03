@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning Software development and DSA
-### 🔭 I’m currently working on a personal blog web app
+### 🔭 I’m currently working on Literally: A tinder style app to share and appreciate thought provoking quotes.
 ### Checkout my website: https://abhinav-chdhary.github.io/my-portfolio/
 ### How to reach me: 
 LinkedIn: https://www.linkedin.com/in/abhinavchdhary/ 
