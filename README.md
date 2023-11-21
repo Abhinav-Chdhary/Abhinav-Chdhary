@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning Software development and DSA
-### 🔭 I’m currently working on Literally: A tinder style app to share and appreciate thought provoking quotes.
+### 🔭 I’m currently working on Jumblr.io: A online word jumbling game you can play with your friends.
 ### Checkout my website: https://abhinav-chdhary.github.io/my-portfolio/
 ### How to reach me: 
 LinkedIn: https://www.linkedin.com/in/abhinavchdhary/ 
