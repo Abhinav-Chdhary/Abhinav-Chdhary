@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning Software development and DSA
-### 🔭 I’m currently working on Unibud, a platfrom to help students prepare for university/school/competitive exams: https://www.quest2blueprint.com/
+### 🔭 I’m currently working on Unibud, a platfrom to help students prepare for university/school/competitive exams: www.unibud.in
 ### Checkout my website: https://abhinav-chdhary.github.io/my-portfolio/
 ### How to reach me: 
 LinkedIn: https://www.linkedin.com/in/abhinavchdhary/ 
