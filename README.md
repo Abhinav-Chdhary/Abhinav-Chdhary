@@ -1,5 +1,5 @@
 # 🧙‍♂️ About Me:
-Hi there 👋<br>🌱 I’m a Software Engineer<br>🔭 I’m currently working on [Shram](https://www.shram.io), a people-first work management tool<br>Checkout [my website](https://abhinav-chdhary.github.io/my-portfolio/) <br>How to reach me: [LinkedIn](https://www.linkedin.com/in/abhinavchdhary/) | [Gmail](mailto:abhinavchdhary@gmail.com)
+Hi there 👋<br>🌱 I’m a Software Engineer<br>🔭 I’m currently working on [Shram](https://www.shram.io), a people-first work management tool<br>Checkout [my website](https://abhinavs.org/) <br>How to reach me: [LinkedIn](https://www.linkedin.com/in/abhinavchdhary/) | [Gmail](mailto:abhinavchdhary@gmail.com)
 
 
 ## 🌐 Socials:
