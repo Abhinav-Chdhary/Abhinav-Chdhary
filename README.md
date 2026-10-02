@@ -1,5 +1,5 @@
 # 🧙‍♂️ About Me:
-Hi there, i'm Abhinav 👋<br>🌱 i’m a Software engineer, currently at medsee.ai <br>🔭 i spend most of time talking to claude/codex/antigravity. in my free time i make FOSS projects on ideas i find interesting. i love working in product engineering/full stack roles in small, highly capable teams :) <br>Checkout [my website](https://abhinavs.org/) <br>How to reach me: [LinkedIn](https://www.linkedin.com/in/abhinavchdhary/) | [Gmail](mailto:abhinavchdhary@gmail.com)
+Hi there, i'm Abhinav 👋<br>🌱 i’m a Software engineer, currently at cent ai <br>🔭 i spend most of time talking to claude/codex/antigravity. in my free time i make FOSS projects on ideas i find interesting. i love working in product engineering/full stack roles in small, highly capable teams :) <br>Checkout [my website](https://abhinavs.org/) <br>How to reach me: [LinkedIn](https://www.linkedin.com/in/abhinavchdhary/) | [Gmail](mailto:abhinavchdhary@gmail.com)
 
 
 ## 🌐 Socials:
